@@ -18,7 +18,7 @@ const portfolioData = [
     image: ImageOne,
     skills: "React,NodeJS,JavaScript,CSS",
     github: "https://github.com/jacobcatalina01/Personal-Website",
-    link: "https://sld-studios.itch.io/roots-renewal-of-bloom"
+    link: "https://jacobcatalina.com/"
   },
   {
     id: 2,
